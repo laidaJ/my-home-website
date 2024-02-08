@@ -1,0 +1,43 @@
+/* 导航部分 */
+.nav {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-evenly;
+  height: 72px;
+  box-shadow: 0 2px 4px -1px rgba(57, 76, 96, 0.15);
+}
+
+.nav .logo {
+  height: 72px;
+  width: 72px;
+}
+
+.nav nav {
+  margin-left: 10%;
+  width: 70%;
+  height: 72px;
+}
+
+.nav ul {
+  display: flex;
+}
+
+.nav .logo h1 a img {
+  width: 72px;
+}
+.nav nav ul li a {
+  padding: 0 2vw;
+  white-space: nowrap;
+  font-size: 18px;
+  color: #000;
+}
+
+h1,
+.weblink {
+  text-align: center;
+}
+
+footer::before {
+  content: '';
+  padding-left: 5vw;
+}
