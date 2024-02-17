@@ -1,9 +1,9 @@
 // 引入modules
-const server = require('./app');
-const mongoose = require('mongoose')
-const dotenv = require('dotenv')
+const server = require("./app");
+const mongoose = require("mongoose");
+const dotenv = require("dotenv");
 
-dotenv.config({ path: './config.env' });
+dotenv.config({ path: "./config.env" });
 
 //Database
 /*
@@ -21,5 +21,5 @@ connectDB();
 
 // 监听端口
 server.listen(process.env.port, `${process.env.url}`, () => {
-    console.log(`App is running on ${process.env.url}:${process.env.port}`);
-})
+  console.log(`App is running on ${process.env.url}:${process.env.port}`);
+});

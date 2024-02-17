@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/nav.css" />
+    <link rel="stylesheet" href="../css/index.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+    <style>
+      section {
+        display: flex;
+        justify-content: start;
+        flex-wrap: wrap;
+      }
+
+      section span {
+        display: flex;
+        margin: 10px;
+        width: calc(33.3% - 20px);
+        box-shadow: 1px 3px 15px rgba(0, 0, 0, 0.1);
+      }
+
+      section span img {
+        width: 150px;
+      }
+
+      section span ul li {
+        padding: 5px;
+      }
+
+      @media screen and (max-width: 768px) {
+        section span {
+          width: 100%;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- 导航 -->
+    <div class="nav">
+      <div class="logo">
+        <h1>
+          <a href="#"><img src="../image/icon/fjlogo.png" alt="" /></a>
+        </h1>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="index.html">首页</a></li>
+          <li><a href="duijie.html">联系我们</a></li>
+          <li><a href="paper.html">共联资料</a></li>
+        </ul>
+      </nav>
+    </div>
+    <section class="m"></section>
+    <script src="../js/mkh_products.js"></script>
+  </body>
+</html>

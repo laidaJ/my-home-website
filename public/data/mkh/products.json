@@ -1,0 +1,135 @@
+[
+  {
+    "code": 20067313,
+    "barcode": null,
+    "name": "柠檬凤爪(鲜辣味)(原料)",
+    "price": 53.0,
+    "weight": 1000
+  },
+  {
+    "code": 20067315,
+    "barcode": null,
+    "name": "泰式凤爪(鲜辣味)(原料)",
+    "price": 53.0,
+    "weight": 1000
+  },
+  {
+    "code": 20067505,
+    "barcode": null,
+    "name": "卤牛肉",
+    "price": 92.0,
+    "weight": 1000
+  },
+  {
+    "code": 20069587,
+    "barcode": null,
+    "name": "盐焗鸡翅尖(原料)",
+    "price": 40.0,
+    "weight": 1000
+  },
+  {
+    "code": 20069585,
+    "barcode": null,
+    "name": "盐焗凤爪(原料)",
+    "price": 75.0,
+    "weight": 1000
+  },
+  {
+    "code": 20069586,
+    "barcode": null,
+    "name": "盐焗鸭爪(原料)",
+    "price": 68.0,
+    "weight": 1000
+  },
+  {
+    "code": 20067736,
+    "barcode": null,
+    "name": "香肠(原料)",
+    "price": 100.0,
+    "weight": 1000
+  },
+  {
+    "code": 20068864,
+    "barcode": 6972644590435,
+    "name": "香卤鸡胗160g",
+    "price": 10.22,
+    "weight": 160
+  },
+  {
+    "code": 20068865,
+    "barcode": 6972644590428,
+    "name": "香卤鸡翅尖200g",
+    "price": 9.7,
+    "weight": 200
+  },
+  {
+    "code": 20068866,
+    "barcode": 6972644590442,
+    "name": "香卤鸡翅根220g",
+    "price": 14.88,
+    "weight": 220
+  },
+  {
+    "code": 20068867,
+    "barcode": 6972644590237,
+    "name": "香卤鸭头150g",
+    "price": 11.44,
+    "weight": 150
+  },
+  {
+    "code": 20068868,
+    "barcode": 6972644590220,
+    "name": "香卤鸭掌160g",
+    "price": 13.3,
+    "weight": 160
+  },
+  {
+    "code": 20068869,
+    "barcode": 6972644590411,
+    "name": "香卤鸭二节翅200g",
+    "price": 11.4,
+    "weight": 200
+  },
+  {
+    "code": 20068870,
+    "barcode": 6972644590398,
+    "name": "香卤鸭翅中200g",
+    "price": 11.1,
+    "weight": 200
+  },
+  {
+    "code": 20068871,
+    "barcode": 6972644590374,
+    "name": "香卤鸭脖220g",
+    "price": 9.712,
+    "weight": 220
+  },
+  {
+    "code": 20068872,
+    "barcode": 6972644590404,
+    "name": "香卤鸭锁骨230g",
+    "price": 10.108,
+    "weight": 230
+  },
+  {
+    "code": 20068873,
+    "barcode": 6972644590466,
+    "name": "香卤猪肚120g",
+    "price": 17.02,
+    "weight": 120
+  },
+  {
+    "code": 20068874,
+    "barcode": 6972644590459,
+    "name": "香卤猪耳朵160g",
+    "price": 13.1,
+    "weight": 160
+  },
+  {
+    "code": 20068875,
+    "barcode": 6972644590381,
+    "name": "香卤猪蹄160g",
+    "price": 15.02,
+    "weight": 160
+  }
+]

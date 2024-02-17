@@ -1,25 +1,25 @@
 /* 分店地址样式 */
-.address ul {
-  list-style: none;
-  padding: 0;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: start;
-}
-
-.address ul li {
-  width: calc(25% - 20px);
-  margin: 10px;
-  padding: 10px;
-  border-radius: 5px;
-  background-color: #00c9a7;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  text-align: center;
-  cursor: pointer;
-}
-
-.address ul li:hover {
-  background-color: #c4fcef;
+.address {
+  ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    li {
+      width: calc(25% - 20px);
+      margin: 10px;
+      padding: 10px;
+      border-radius: 5px;
+      background-color: #00c9a7;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      cursor: pointer;
+    }
+    li:hover {
+      background-color: #c4fcef;
+    }
+  }
 }
 
 /* 开票信息表格样式 */
@@ -27,16 +27,15 @@ table {
   width: 100%;
   border-collapse: collapse;
   margin-bottom: 20px;
-}
-
-table td {
-  padding: 10px;
-  border: 1px solid #ddd;
+  td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
 }
 
 /* 入仓流程样式 */
 .clearfix::after {
-  content: '';
+  content: "";
   clear: both;
   display: table;
 }
@@ -66,21 +65,19 @@ table td {
 .flow1 {
   text-align: center;
   padding: 20px;
-}
-
-.flow1 .iconfont {
-  font-size: 50px;
-  color: #008cba;
+  .iconfont {
+    font-size: 50px;
+    color: #008cba;
+  }
 }
 
 .flow2 ul {
   padding: 0;
   margin: 0;
-}
-
-.flow2 ul li {
-  list-style: none;
-  padding: 10px 0;
+  li {
+    list-style: none;
+    padding: 10px 0;
+  }
 }
 
 .float-message,
